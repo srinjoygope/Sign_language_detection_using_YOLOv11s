@@ -19,9 +19,9 @@ Visualization: The training log graph is plotted and also with a normalized conf
 The dataset in this project is a custom made image dataset consisting 750 raw images of 640x480 pixel resolution. After that the data is augmented and resized for training purpose.
 Following images are a example of the data I used in this work :
 
-![sample image1](sample_data\0e97689a-8f86-4951-869b-f6256a1171e4.jpg)
+![sample image1](sample_data/0e97689a-8f86-4951-869b-f6256a1171e4.jpg)
 
-![sample image2](sample_data\3fae6407-d073-48d4-927e-fbad9f17314d.jpg)
+![sample image2](sample_data/3fae6407-d073-48d4-927e-fbad9f17314d.jpg)
 
 ## Installation
 
@@ -46,11 +46,11 @@ python use_real_time.py
 
 ## Real-time demo
 
-![sample image3](results\predictions\0c1e354a-d441-4132-a86e-4fc2a670aba8_jpg.rf.38ee74e6d32a11ac46a844841ed36a49.jpg)
+![sample image3](results/predictions/0c1e354a-d441-4132-a86e-4fc2a670aba8_jpg.rf.38ee74e6d32a11ac46a844841ed36a49.jpg)
 
-![sample image4](results\predictions\35d57e0b-3a3e-4922-b62b-b9d6e4f7b617_jpg.rf.3abc0d01e66393544d854c4d3d1d4c2d.jpg)
+![sample image4](results/predictions/35d57e0b-3a3e-4922-b62b-b9d6e4f7b617_jpg.rf.3abc0d01e66393544d854c4d3d1d4c2d.jpg)
 
-![sample image5](results\predictions\40f98cd6-1df2-48dc-8e8c-5725ada43307_jpg.rf.2465fe1ae0feea8052c547d8cf93c463.jpg)
+![sample image5](results/predictions/40f98cd6-1df2-48dc-8e8c-5725ada43307_jpg.rf.2465fe1ae0feea8052c547d8cf93c463.jpg)
 
 ## Results
 
