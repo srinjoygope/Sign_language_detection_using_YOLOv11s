@@ -5,7 +5,7 @@ from ultralytics import YOLO
 model = YOLO("best_model.pt")
 
 # Open the video capture or webcam
-cap = cv2.VideoCapture(0)  # Use "path/to/video.mp4" for a video file
+cap = cv2.VideoCapture(0)  # Use "path/tqqqqqqo/video.mp4" for a video file
 
 while True:
     ret, frame = cap.read()
